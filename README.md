@@ -16,8 +16,6 @@ SK Planet - https://readme.skplanet.com/
 
 스포카 - https://spoqa.github.io/
 
-여기어때 - https://medium.com/yeogi-tech
-
 레진코믹스 - http://tech.lezhin.com/
 
 피플펀드 - https://tech.peoplefund.co.kr/
